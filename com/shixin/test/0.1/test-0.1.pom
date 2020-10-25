@@ -105,7 +105,7 @@
                     <repositoryOwner>weizhiwen</repositoryOwner>
                     <repositoryName>my-maven-repo</repositoryName>
                     <merge>true</merge>
-                    <message>初始化框架2</message>
+                    <message>初始化框架3</message>
                     <outputDirectory>${project.build.directory}/mvn-repo/</outputDirectory>
                     <branch>refs/heads/mvn-repo</branch>
                 </configuration>
