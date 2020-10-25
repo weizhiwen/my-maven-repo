@@ -9,6 +9,7 @@
     <description>测试我的Maven仓库</description>
     <packaging>jar</packaging>
 
+
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -104,7 +105,7 @@
                     <repositoryOwner>weizhiwen</repositoryOwner>
                     <repositoryName>my-maven-repo</repositoryName>
                     <merge>true</merge>
-                    <message>初始化框架1</message>
+                    <message>初始化框架2</message>
                     <outputDirectory>${project.build.directory}/mvn-repo/</outputDirectory>
                     <branch>refs/heads/mvn-repo</branch>
                 </configuration>
